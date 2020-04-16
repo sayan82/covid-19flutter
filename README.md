@@ -1,6 +1,6 @@
 # go_corona
 
-A new Flutter project.
+This is made with Flutter.
 
 ## Getting Started
 
